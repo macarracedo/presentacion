@@ -2,8 +2,12 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Manuel Alonso Carracedo'
+description: 'Soy Ingeniero Informático de Vigo, centrado especialmente en la programación, el machine learning y la ciberseguridad.
+
+Me considero una persona trabajadora y comprometida con lo que hace, que espera poder construir un mundo mejor a medida que aprende y se rodea de los mejores en aquellos proyectos en los que participa.
+
+También estoy interesado en la innovación y el diseño, así como en todo lo relacionado con la tecnología.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -31,11 +35,12 @@ github-user: 'macarracedo'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
+telegram: 'macarracedo'
 #blog_url: 'myblog.blog.com'
 email: 'macarracedo@esei.uvigo.es'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, telegram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
