@@ -14,11 +14,11 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
-Linkedin: 'macarracedo'
+linkedin: 'macarracedo'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-Github-user: 'macarracedo'
+github: 'macarracedo'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -31,12 +31,12 @@ Github-user: 'macarracedo'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
-Telegram: 'macarracedo'
+telegram: 'macarracedo'
 #blog_url: 'myblog.blog.com'
-Email: 'macarracedo@esei.uvigo.es'
+email: 'macarracedo@esei.uvigo.es'
 #messenger: 'myfbchat'
 
-social-links-order: [Github, facebook, twitter, instagram, tumblr, pinterest, Linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, Telegram, Email]
+social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, telegram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -65,7 +65,7 @@ social-links:
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: Linkedin
+  - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
 
   - name: google-plus
@@ -86,7 +86,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: Github
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
@@ -138,7 +138,7 @@ social-links:
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
-  - name: Telegram
+  - name: telegram
     url-pattern: telegram.me/__USERNAME__
 
   - name: snapchat
@@ -151,7 +151,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: Email
+  - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
