@@ -3,11 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Manuel Alonso Carracedo'
-description: 'Soy Ingeniero Informático de Vigo, centrado especialmente en la programación, el machine learning y la ciberseguridad.
-
-Me considero una persona trabajadora y comprometida con lo que hace, que espera poder construir un mundo mejor a medida que aprende y se rodea de los mejores en aquellos proyectos en los que participa.
-
-También estoy interesado en la innovación y el diseño, así como en todo lo relacionado con la tecnología.'
+description: 'Software Engineer'
 
 # Images
 avatar: 'avatar.jpg'
